@@ -11,8 +11,8 @@ This is a native Android app developed in Kotlin for Fetch Rewards' coding exerc
 ## Screenshots
 
 <div style="display: flex; justify-content: space-around;">
-    <img src="screenshots/screenshot1.png" alt="SS1" width="45%" />
-    <img src="screenshots/screenshot2.png" alt="SS2" width="45%" />
+    <img src="screenshots/SS1.png" alt="Screenshot 1" width="45%" />
+    <img src="screenshots/SS2.png" alt="Screenshot 2" width="45%" />
 </div>
 
 ## Setup Instructions
